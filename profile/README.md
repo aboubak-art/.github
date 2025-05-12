@@ -21,6 +21,6 @@ We are a team of passionate freelance developers committed to delivering high-qu
 
 Interested in working with us? Feel free to reach out!
 
-- **Email:** [your-email@example.com](mailto:me@aboubak.art)
-- **Website:** [Your Website](https://aboubak.art)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/fahasidik)
+- **Email:** [me@aboubak.art](mailto:me@aboubak.art)
+- **Website:** [aboubak.art](https://aboubak.art)
+- **LinkedIn:** [Aboubakar Sidik Faha](https://linkedin.com/in/fahasidik)
